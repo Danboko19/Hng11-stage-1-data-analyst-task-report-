@@ -17,3 +17,4 @@ Which are   as shown in the illustration below;
 ## Conclusions
 2023 election in calabar was a fair and free election with less irregularities but some location didn't go well, which not possible to not witness such a things. 
 To learn more about coding and data analysis visit the following link:
+https://hng.tech/internship
